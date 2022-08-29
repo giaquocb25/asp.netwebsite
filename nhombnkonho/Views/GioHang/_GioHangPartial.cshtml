@@ -1,0 +1,37 @@
+﻿@if (ViewBag.DSGioHang != null)
+{
+    foreach (var item in ViewBag.DSGioHang)
+    {
+        @*<div class="mini-cart-btn">
+            <i class="fa fa-shopping-cart"></i>
+            <span class="cart-notification">@item.SoLuong</span>
+        </div>
+        <div class="cart-total-price">
+            <span>Gía</span>
+            @item.GiaTThanhToan
+        </div>*@
+        <ul class="cart-list">
+            <li>
+                <div class="cart-img">
+                    <a href="@Url.Action("Chitietsanpham", "SanPham", new { id = @item.MaSanPham})">
+                        <img src="@item.Anhbia"
+                             alt="">
+                    </a>
+                </div>
+                <div class="cart-info">
+                    <h4><a href="@Url.Action("Chitietsanpham", "SanPham", new { id = @item.MaSanPham})">@item.TenSanPham</a></h4>
+                    <p class="price"><span class="qty">Số Lượng:@item.SoLuong</span>Gía:@item.GiaKK</p>
+                </div>
+                <a href="@Url.Action("xoakhoigio", "GioHang", new { id = item.MaSanPham})"><i class="fa fa-trash-o"></i></a>
+            </li>
+            <li class="mini-cart-price">
+                <span class="subtotal">Tổng Tiền : </span>
+                <span class="subtotal-price">@item.GiaTong</span>
+            </li>
+            <li class="checkout-btn">
+                <a href="/GioHang/ThanhToan">Thanh Toán</a>
+            </li>
+        </ul>
+    }
+
+}

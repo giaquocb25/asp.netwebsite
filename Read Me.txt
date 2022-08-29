@@ -1,0 +1,1 @@
+Chay File final.sql để extract CSDL, sau đó sửa server name trong Web Config bằng server name SQL của bạn

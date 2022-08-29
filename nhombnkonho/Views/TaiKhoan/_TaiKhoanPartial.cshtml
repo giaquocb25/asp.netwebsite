@@ -1,0 +1,21 @@
+﻿
+@if (ViewBag.TaiKhoan == null)
+{
+    <a class="dropdown-toggle" id="Tài Khoản" data-toggle="dropdown"
+       aria-haspopup="true" aria-expanded="false">
+        Tài Khoản
+        <i class="fa fa-angle-down"></i>
+    </a>
+    <div class="dropdown-menu" aria-labelledby="Tài Khoản">
+
+        <a class="dropdown-item" href="/TaiKhoan/DangNhap"> Đăng Nhập</a>
+        <a class="dropdown-item" href="/TaiKhoan/DangKy">Đăng Ký</a>
+    </div>
+}
+
+else
+{
+    <h6>Chào: @ViewBag.TaiKhoan.TaiKhoan</h6>
+    
+    
+}

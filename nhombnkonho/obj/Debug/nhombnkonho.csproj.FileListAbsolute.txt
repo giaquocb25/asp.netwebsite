@@ -1,0 +1,684 @@
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csprojAssemblyReference.cache
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.pdb
+E:\nhombnkonho\nhombnkonho\bin\nhombnkonho.dll.config
+E:\nhombnkonho\nhombnkonho\bin\nhombnkonho.dll
+E:\nhombnkonho\nhombnkonho\bin\nhombnkonho.pdb
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csc.exe
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csc.exe.config
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csc.rsp
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csi.exe
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csi.exe.config
+E:\nhombnkonho\nhombnkonho\bin\roslyn\csi.rsp
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\nhombnkonho\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.AppContext.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Console.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Net.Http.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\nhombnkonho\nhombnkonho\bin\roslyn\vbc.exe
+E:\nhombnkonho\nhombnkonho\bin\roslyn\vbc.exe.config
+E:\nhombnkonho\nhombnkonho\bin\roslyn\vbc.rsp
+E:\nhombnkonho\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+E:\nhombnkonho\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+E:\nhombnkonho\nhombnkonho\bin\Antlr3.Runtime.dll
+E:\nhombnkonho\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\nhombnkonho\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+E:\nhombnkonho\nhombnkonho\bin\Newtonsoft.Json.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Helpers.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Mvc.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Optimization.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Razor.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+E:\nhombnkonho\nhombnkonho\bin\WebGrease.dll
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Helpers.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Mvc.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Optimization.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.Razor.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+E:\nhombnkonho\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+E:\nhombnkonho\nhombnkonho\bin\Newtonsoft.Json.xml
+E:\nhombnkonho\nhombnkonho\bin\Antlr3.Runtime.pdb
+E:\nhombnkonho\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+E:\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+E:\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+E:\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.dll
+E:\nhombnkonho\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\obj\Debug\nhombnkonho.csprojAssemblyReference.cache
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ\Documents\Bài Tập-Dự án-Thi\HK7\Lập Trình Web\151900082-Giữa Kỳ\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc_HoàngThànhCông_ĐinhDanhTuấn\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.dll
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.pdb
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.xml
+C:\Users\BGQ-PC\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT - Copy\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.pdb
+C:\Users\BGQ\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll.config
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\nhombnkonho.pdb
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.exe.config
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csc.rsp
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.exe.config
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\csi.rsp
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.AppContext.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Console.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Http.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.ValueTuple.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.exe.config
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\vbc.rsp
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\WebGrease.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\EntityFramework.SqlServer.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Helpers.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Mvc.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Optimization.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.Razor.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\System.Web.WebPages.Razor.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Newtonsoft.Json.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.pdb
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Telegram.Bot.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Antlr3.Runtime.pdb
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.AssemblyReference.cache
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CoreCompileInputs.cache
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.csproj.CopyComplete
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.dll
+C:\Users\BGQ1\Desktop\BùiGiaQuốc - TMĐT\151900082-Cuối Kỳ Soruce\nhombnkonho\obj\Debug\nhombnkonho.pdb

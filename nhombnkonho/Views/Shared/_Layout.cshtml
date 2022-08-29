@@ -1,0 +1,541 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title  GearBH </title>
+    @*@Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")*@
+    <link rel="shortcut icon" href="~/img/favicon.ico" type="image/x-icon" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/css/helper.min.css" rel="stylesheet">
+    <link href="~/css/plugins.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
+    <link href="~/css/skin-default.css" rel="stylesheet" id="galio-skin">
+</head>
+<body>
+    <!-- Messenger Plugin chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+        var chatbox = document.getElementById('fb-customer-chat');
+        chatbox.setAttribute("page_id", "103585025564935");
+        chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v12.0'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+    <header>
+
+        <!-- header top start -->
+        <div class="header-top-area bg-gray text-center text-md-left">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-5">
+                        <div class="header-call-action">
+                            <a href="#">
+                                <i class="fa fa-envelope"></i>
+                                info@website.com
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-phone"></i>
+                                0123456789
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-7">
+                        <div class="header-top-right float-md-right float-none">
+                            <nav>
+                                <ul>
+                                    <li>
+                                        <div class="dropdown header-top-dropdown">
+                                            @Html.Action("TaiKhoan", "TaiKhoan")
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a href="#">Yêu Thích</a>
+                                    </li>
+                                    <li>
+                                        <a href="/GioHang/Index">Đơn Hàng Của Tôi</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Thanh Toán</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- header top end -->
+        <!-- header middle start -->
+        <div class="header-middle-area pt-20 pb-20">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <div class="brand-logo">
+                            <a href="/SanPham12/Index">
+                                <img src="~/img/pclogo1.png" alt="brand logo">
+                            </a>
+                        </div>
+                    </div> <!-- end logo area -->
+                    <div class="col-lg-9">
+                        <div class="header-middle-right">
+                            <div class="header-middle-shipping mb-20">
+                                <div class="single-block-shipping">
+                                    <div class="shipping-icon">
+                                        <i class="fa fa-clock-o"></i>
+                                    </div>
+                                    <div class="shipping-content">
+                                        <h5>Thời Gian Làm Việc</h5>
+                                        <span>T2-CN : 8.00 - 18.00</span>
+                                    </div>
+                                </div> <!-- end single shipping -->
+                                <div class="single-block-shipping">
+                                    <div class="shipping-icon">
+                                        <i class="fa fa-truck"></i>
+                                    </div>
+                                    <div class="shipping-content">
+                                        <h5>Miễn Phí Ship</h5>
+                                        <span>Trong Khu Vực Biên Hòa</span>
+                                    </div>
+                                </div> <!-- end single shipping -->
+                                <div class="single-block-shipping">
+                                    <div class="shipping-icon">
+                                        <i class="fa fa-money"></i>
+                                    </div>
+                                    <div class="shipping-content">
+                                        <h5>Chế độ Trả Góp</h5>
+                                        <span>Với Lãi Suất 0%</span>
+                                    </div>
+                                </div> <!-- end single shipping -->
+                            </div>
+                            <div class="header-middle-block">
+                                <div class="header-middle-searchbox ">
+
+                                    <input type="text" placeholder="Search...">
+                                    <button class="search-btn"><i class="fa fa-search"></i></button>
+                                </div>
+                                <div class="header-mini-cart">
+
+                                    <div class="cart-total-price">
+                                        <span>Số Lượng</span>
+
+                                    </div>
+                                    <div class="mini-cart-btn">
+                                        <i class="fa fa-shopping-cart"></i>
+                                        <span class="cart-notification"></span>
+                                    </div>
+                                    @Html.Action("GioHang", "GioHang")
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- header middle end -->
+        <!-- main menu area start -->
+        <div class="main-header-wrapper bdr-bottom1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="main-header-inner">
+                            <div class="category-toggle-wrap">
+                                <div class="category-toggle">
+                                    Danh Sách Sản Phẩm
+                                    <div class="cat-icon">
+                                        <i class="fa fa-angle-down"></i>
+                                    </div>
+                                </div>
+                                <nav class="category-menu hm-1">
+                                    <ul>
+
+                                        @Html.Action("DanhSach", "Home")
+
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="main-menu">
+                                <nav id="mobile-menu">
+                                    <ul>
+                                        <li class="active">
+                                            <a href="#"><i class="fa fa-home"></i>Trang Chủ </a>
+
+                                        </li>
+                                        <li class="static">
+                                            <a href="#">Tổng Hợp <i class="fa fa-angle-down"></i></a>
+                                            <ul class="megamenu dropdown">
+                                                <li class="mega-title">
+                                                    <a href="#">column 01</a>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="~/buigiaquoc3.html">
+                                                                shop grid left
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-right-sidebar.html">
+                                                                shop grid right
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-full-3-col.html">
+                                                                shop grid full 3
+                                                                column
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-full-4-col.html">
+                                                                shop grid full 4
+                                                                column
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="mega-title">
+                                                    <a href="#">column 02</a>
+                                                    <ul>
+                                                        <li><a href="product-details.html">product details</a></li>
+                                                        <li>
+                                                            <a href="product-details-affiliate.html">
+                                                                product
+                                                                details
+                                                                affiliate
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="product-details-variable.html">
+                                                                product details
+                                                                variable
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="product-details-group.html">
+                                                                product details
+                                                                group
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="mega-title">
+                                                    <a href="#">column 03</a>
+                                                    <ul>
+                                                        <li><a href="cart.html">cart</a></li>
+                                                        <li><a href="checkout.html">checkout</a></li>
+                                                        <li><a href="compare.html">compare</a></li>
+                                                        <li><a href="wishlist.html">wishlist</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="mega-title">
+                                                    <a href="#">column 04</a>
+                                                    <ul>
+                                                        <li><a href="my-account.html">my-account</a></li>
+                                                        <li><a href="login-register.html">login-register</a></li>
+                                                        <li><a href="about-us.html">about us</a></li>
+                                                        <li><a href="contact-us.html">contact us</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">Sản Phẩm <i class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown">
+                                                <li>
+                                                    <a href="#">shop grid layout <i class="fa fa-angle-right"></i></a>
+                                                    <ul class="dropdown">
+                                                        <li>
+                                                            <a href="shop-grid-left-sidebar.html">
+                                                                shop grid left
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-left-sidebar-3-col.html">
+                                                                left
+                                                                sidebar 3 col
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-right-sidebar.html">
+                                                                shop grid right
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-right-sidebar-3-col.html">
+                                                                grid right
+                                                                sidebar 3 col
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-full-3-col.html">
+                                                                shop grid full 3
+                                                                column
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-grid-full-4-col.html">
+                                                                shop grid full 4
+                                                                column
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="#">shop list layout <i class="fa fa-angle-right"></i></a>
+                                                    <ul class="dropdown">
+                                                        <li>
+                                                            <a href="shop-list-left-sidebar.html">
+                                                                shop list left
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="shop-list-right-sidebar.html">
+                                                                shop list right
+                                                                sidebar
+                                                            </a>
+                                                        </li>
+                                                        <li><a href="shop-list-full.html">shop list full width</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="#">products details <i class="fa fa-angle-right"></i></a>
+                                                    <ul class="dropdown">
+                                                        <li><a href="product-details.html">product details</a></li>
+                                                        <li>
+                                                            <a href="product-details-affiliate.html">
+                                                                product
+                                                                details
+                                                                affiliate
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="product-details-variable.html">
+                                                                product details
+                                                                variable
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="product-details-group.html">
+                                                                product details
+                                                                group
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="product-details-box.html">
+                                                                product details box
+                                                                slider
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">Tin Tức </a>
+
+                                        </li>
+                                        <li><a href="contact-us.html">Về Chúng tôi</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 d-block d-lg-none">
+                        <div class="mobile-menu"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- main menu area end -->
+
+    </header>
+    <div class="container body-content">
+
+        @RenderBody()
+        <hr />
+        <footer>
+
+            <!-- footer top start -->
+            <div class="footer-top bg-black pt-14 pb-14">
+                <div class="container">
+                    <div class="footer-top-wrapper">
+                        <div class="newsletter__wrap">
+                            <div class="newsletter__title">
+                                <div class="newsletter__icon">
+                                    <i class="fa fa-envelope"></i>
+                                </div>
+                                <div class="newsletter__content">
+                                    <h3>Theo Dõi chúng tôi để cập nhập thông tin mới nhất</h3>
+
+                                </div>
+                            </div>
+                            <div class="newsletter__box">
+                                <form id="mc-form">
+                                    <input type="email" id="mc-email" autocomplete="off" placeholder="Email">
+                                    <button id="mc-submit">Đăng Ký</button>
+                                </form>
+                            </div>
+                            <!-- mailchimp-alerts Start -->
+                            <div class="mailchimp-alerts">
+                                <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
+                                <div class="mailchimp-success"></div><!-- mailchimp-success end -->
+                                <div class="mailchimp-error"></div><!-- mailchimp-error end -->
+                            </div>
+                            <!-- mailchimp-alerts end -->
+                        </div>
+                        <div class="social-icons">
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Google-plus"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" data-toggle="tooltip" data-placement="top" title="Youtube"><i class="fa fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- footer top end -->
+            <!-- footer main start -->
+            <div class="footer-widget-area pt-40 pb-38 pb-sm-10">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-widget mb-sm-30">
+                                <div class="widget-title mb-10 mb-sm-6">
+                                    <h4>Liên Hệ với Chúng tôi</h4>
+                                </div>
+                                <div class="widget-body">
+                                    <ul class="location">
+                                        <li><i class="fa fa-envelope"></i>bgq@gmail.com</li>
+                                        <li><i class="fa fa-phone"></i>0123456789</li>
+                                        <li>
+                                            <i class="fa fa-map-marker"></i>Địa Chỉ : Biên Hòa -Đồng Nai
+                                        </li>
+                                        <li>© Copyright BùiGiaQuốc</li>
+                                    </ul>
+                                    <a class="map-btn" href="contact-us.html">Tìm Chúng tôi trên Google Map</a>
+                                </div>
+                            </div> <!-- single widget end -->
+                        </div> <!-- single widget column end -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-widget mb-sm-30">
+                                <div class="widget-title mb-10 mb-sm-6">
+                                    <h4>Tài Khoản </h4>
+                                </div>
+                                <div class="widget-body">
+                                    <ul>
+                                        <li><a href="/TaiKhoan/DangKy">Đăng Ký</a></li>
+                                        <li><a href="/GioHang/Index">Giỏ Hàng</a></li>
+                                        <li><a href="#">Thanh Toán</a></li>
+                                        <li><a href="#">Sản Phẩm Yêu thích</a></li>
+                                        <li><a href="/TaiKhoan/DangNhap">Đăng Nhập</a></li>
+                                    </ul>
+                                </div>
+                            </div> <!-- single widget end -->
+                        </div> <!-- single widget column end -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-widget mb-sm-30">
+                                <div class="widget-title mb-10 mb-sm-6">
+                                    <h4>Thông tin thêm</h4>
+                                </div>
+                                <div class="widget-body">
+                                    <ul>
+                                        <li><a href="#">Bộ Sưu tậm</a></li>
+                                        <li><a href="#">Chính sách của Chúng tôi</a></li>
+                                        <li><a href="#">Khuyến mãi</a></li>
+                                        <li><a href="#">Địa Điểm</a></li>
+                                        <li><a href="#">Tuyển Dụng</a></li>
+                                    </ul>
+                                </div>
+                            </div> <!-- single widget end -->
+                        </div> <!-- single widget column end -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-widget mb-sm-30">
+                                <div class="widget-title mb-10 mb-sm-6">
+                                    <h4>Theo Dõi chúng tôi</h4>
+                                </div>
+                                <div class="widget-body">
+                                    <ul>
+                                        <li><a href="#">Youtube</a></li>
+                                        <li><a href="#">FaceBook</a></li>
+                                        <li><a href="#">Instagram</a></li>
+                                        <li><a href="#">Telegram</a></li>
+                                        <li><a href="#">Zalo</a></li>
+                                    </ul>
+                                </div>
+                            </div> <!-- single widget end -->
+                        </div> <!-- single widget column end -->
+                    </div>
+                </div>
+            </div>
+            <!-- footer main end -->
+            <!-- footer bootom start -->
+            <div class="footer-bottom-area bg-gray pt-20 pb-20">
+                <div class="container">
+                    <div class="footer-bottom-wrap">
+                        <div class="copyright-text">
+                            <p><a target="_blank" href="https://www.templateshub.net">Thanh Toán Tại </a></p>
+                        </div>
+                        <div class="payment-method-img">
+                            <img src="~/img/payment.png" alt="">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- footer bootom end -->
+
+        </footer>
+    </div>
+
+
+    @*@Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)*@
+    <script src="~/js/vendor/modernizr-3.6.0.min.js"></script>
+
+    <script src="~/js/vendor/jquery-3.3.1.min.js"></script>
+
+    <script src="~/js/vendor/popper.min.js"></script>
+
+    <script src="~/js/vendor/bootstrap.min.js"></script>
+
+    <script src="~/js/plugins.js"></script>
+
+    <script src="~/js/ajax-mail.js"></script>
+
+    <script src="~/js/main.js"></script>
+
+
+
+
+</body>
+</html>

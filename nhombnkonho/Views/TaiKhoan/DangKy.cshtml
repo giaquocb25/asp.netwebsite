@@ -1,0 +1,175 @@
+﻿
+@{
+    ViewBag.Title = "Đăng Ký";
+}
+
+
+<div class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-wrap">
+                    <nav aria-label="breadcrumb">
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/SanPham12/Index">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">login-register</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb area end -->
+<!-- login register wrapper start -->
+@model nhombnkonho.Models.TaiKhoanMoldes
+@using (Html.BeginForm("DangKy", "TaiKhoan", FormMethod.Post))
+{
+ 
+<div class="login-register-wrapper">
+    <div class="container">
+        <div class="member-area-from-wrap">
+            <div class="row">
+                <!-- Login Content Start -->
+                <!-- Login Content End -->
+                <!-- Register Content Start -->
+                <div class="col-lg-6">
+                    <div class="login-reg-form-wrap mt-md-34 mt-sm-34">
+                        <h2>Singup Form</h2>
+                        <form action="/TaiKhoan/DangKy" method="post">
+                            <div class="single-input-item">
+                                @Html.LabelFor(x => x.HoTen)
+                                @Html.TextBoxFor(x => x.HoTen, new
+                           {
+                               @class = "mb-0 from control",
+                               type = "text",
+                               id= "name",
+                               placeholder= "Nhập Tên của bạn"
+                           })
+                                
+
+                            </div>
+
+                            <div class="single-input-item">
+                                @Html.LabelFor(x => x.TaiKhoan)
+                                @Html.TextBoxFor(x => x.TaiKhoan, new
+                           {
+                               @class = "mb-0 from control",
+                               type = "text",
+                               id = "TaiKhoan",
+                               placeholder = "Nhập Tên Tài Khoản mới của bạn"
+                           })
+                      
+
+                            </div>
+                            <div class="single-input-item">
+                                @Html.LabelFor(x => x.NgaySinh)
+                                @Html.TextBoxFor(x => x.NgaySinh, new
+                           {
+                               @class = "mb-0 from control",
+                               type = "text",
+                               id = "NgaySinh",
+                               placeholder = "Nhập Ngày Sinh"
+                           })
+                               
+
+                            </div>
+                            <div class="single-input-item">
+                                @Html.LabelFor(x => x.Email)
+                                @Html.TextBoxFor(x => x.Email, new
+                           {
+                               @class = "mb-0 from control",
+                               type = "email",
+                               id = "Email",
+                               placeholder = "Nhập Email"
+                           })
+                               
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="single-input-item">
+                                        @Html.LabelFor(x => x.MatKhau)
+                                        
+
+                                        @Html.PasswordFor(x => x.MatKhau, new
+                                        {
+                                            @class = "mb-0 from control",
+                                            type = "Password",
+                                            id = "MatKhau",
+                                            placeholder = "Nhập Mật Khẩu của bạn"
+                                        })
+                                     
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="single-input-item">
+                                        @Html.LabelFor(x => x.MatKhau)
+                                        @Html.TextBoxFor(x => x.MatKhau, new
+                                   {
+                                       @class = "mb-0 from control",
+                                       type = "Password",
+                                       id = "MatKhau",
+                                       placeholder = "Nhập lại Mật Khẩu của bạn"
+                                   })
+                                      
+                                    </div>
+                                </div>
+                 
+                            <div class="single-input-item">
+                               
+                                <input type="submit" class="btn btn-outline-danger " value="Đăng Ký" />
+                            </div>
+                        </div></form>
+                    </div>
+                </div>
+                <!-- Register Content End -->
+            </div>
+        </div>
+    </div>
+</div>
+}
+<!-- login register wrapper end -->
+<!-- brand area start -->
+<div class="brand-area pt-34 pb-30">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title mb-30">
+                    <div class="title-icon">
+                        <i class="fa fa-crop"></i>
+                    </div>
+                    <h3>Popular Brand</h3>
+                </div> <!-- section title end -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="brand-active slick-padding slick-arrow-style">
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br1.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br2.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br3.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br4.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br5.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br6.png" alt=""></a>
+                    </div>
+                    <div class="brand-item text-center">
+                        <a href="#"><img src="~/img/brand/br4.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- brand area end -->

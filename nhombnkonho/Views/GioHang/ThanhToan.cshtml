@@ -1,0 +1,182 @@
+﻿
+@{
+    ViewBag.Title = "ThanhToan";
+}
+
+<div class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-wrap">
+                    <nav aria-label="breadcrumb">
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a href="shop-grid-left-sidebar.html">shop</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">checkout</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="checkout-page-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+             
+              
+ 
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-6">
+                <div class="checkout-billing-details-wrap">
+                    <h2>Thông Tin Cá Nhân</h2>
+                    <div class="billing-form-wrap">
+                        <form action="#">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="single-input-item">
+                                        <label for="f_name" class="required">Họ</label>
+                                        <input type="text" id="f_name" placeholder="Nhập Họ của Bạn" required />
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="single-input-item">
+                                        <label for="l_name" class="required">Tên</label>
+                                        <input type="text" id="l_name" placeholder="Nhập Tên của Bạn" required />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="single-input-item">
+                                <label for="email" class="required">Email</label>
+                                <input type="email" id="email" placeholder="Nhập Email của Bạn" required />
+                            </div>
+
+
+
+
+                            <div class="single-input-item">
+                                <label for="street-address" class="required pt-20">Địa Chỉ</label>
+                                <input type="text" id="street-address" placeholder="Nhập Địa Chỉ của Bạn" required />
+                            </div>
+
+
+                            <div class="single-input-item">
+                                <label for="postcode" class="required">Thẻ</label>
+                                <input type="text" id="postcode" placeholder="Nhập Thẻ Ngân Hàng của bạn" required />
+                            </div>
+
+                            <div class="single-input-item">
+                                <label for="phone">Số điện Thoại</label>
+                                <input type="text" id="phone" placeholder="Nhập Số điện Thoại " />
+                            </div>
+
+                            <div class="checkout-box-wrap">
+                                <div class="single-input-item">
+                                    <div class="custom-control custom-checkbox">
+                                        <input type="checkbox" class="custom-control-input" id="create_pwd">
+                                        <label class="custom-control-label" for="create_pwd">Tạo Tài Khoản?</label>
+                                    </div>
+                                </div>
+                                <div class="account-create single-form-row">
+                                    <p>Create an account by entering the information below. If you are a returning customer please login at the top of the page.</p>
+                                    <div class="single-input-item">
+                                        <label for="pwd" class="required">Nhập Mật Khẩu</label>
+                                        <input type="password" id="pwd" placeholder="Nhập Mật Khẩu" required />
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="single-input-item">
+                                <label for="ordernote">Ghi Chú</label>
+                                <textarea name="ordernote" id="ordernote" cols="30" rows="3" placeholder="Nếu bạn có điều gì muốn nói với chúng tôi ,hãy viết vào đây"></textarea>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            @if (ViewBag.GioHang != null)
+            {
+                <div class="col-lg-6">
+                    <div class="order-summary-details mt-md-26 mt-sm-26">
+                        <h2>Đơn Hàng của Bạn</h2>
+                        <div class="order-summary-content mb-sm-4">
+                            @foreach (var item in ViewBag.GioHang)
+                            {
+                                <div class="order-summary-table table-responsive text-center">
+
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th>Tên Sản Phẩm</th>
+                                                <th>Số Lượng</th>
+                                                <th>Giá</th>
+                                            </tr>
+                                        </thead>              
+                                            <tbody>
+                                              <tr>
+                                                    <td><a href="#">@item.TenSanPham  </a></td>
+                                                    <td>@item.SoLuong</td>
+                                                    <td>@item.GiaTong</td>
+
+                                                </tr>
+                                            </tbody>
+                                        
+                                        <tfoot>
+                                        </tfoot>
+                                    </table>
+                                    Giá Cần Phải Thanh Toán:@item.GiaTThanhToan
+                                </div>}
+
+                                <div class="order-payment-method">
+
+                                    <div class="summary-footer-area">
+                                        <div class="custom-control custom-checkbox mb-14">
+                                            <input type="checkbox" class="custom-control-input" id="terms" required />
+                                            <label class="custom-control-label" for="terms">
+                                                Tôi Đã Đọc và Đồng Ý các điều Khoản <a href="index.html"></a>
+                                            </label>
+                                        </div>
+                                       
+                                        <div class="action_link">
+                                            <a class="buy-btn" href="@Url.Action("PaymentMM","GioHang")">Thanh Toán Qua App MoMo<i class="payment-method-details"></i></a>
+                                        </div>
+                                       
+                                        @*<a href="@Url.Action(" Payment","GioHang")">Thanh toán Bằng VNPay</a>
+        <a href="@Url.Action("PaymentMM","GioHang")">Thanh toán qua MoMo</a>*@
+
+
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                </div>}
+            </div>
+    </div>
+</div>
+ 
+@*<div class="brand-area pt-28 pb-30 pt-md-10 pt-sm-30">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-title mb-30">
+                    <div class="title-icon">
+                        <i class="fa fa-crop"></i>
+                    </div>
+                    <h3>Popular Brand</h3>
+                </div>  section title end 
+            </div>
+        </div>
+     
+    </div>
+</div>*@
